@@ -18,4 +18,4 @@ return n;
 else
 return all always(n-1)+all always(n-2);
 }
-//这也是我的第一个githubd的代码
+//这也是我的第一个github的代码
